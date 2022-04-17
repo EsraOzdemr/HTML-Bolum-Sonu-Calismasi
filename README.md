@@ -1,2 +1,2 @@
-# HTML-Bolum-sonu-al-st-rmas-
- Kodluyoruz HTML bolum sonu alistirmasi
+# Patika.dev başlangıç seviye front-end çalışma patikası HTML Bölüm Sonu çalışması
+
